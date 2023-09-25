@@ -1,0 +1,25 @@
+* All the test cases will be run
+pytest -v -s
+
+
+* To run a specific file -
+
+pytest -s test_cart.py
+
+
+* To check a specific file where it has passed or failed-
+
+pytest -v test_cart.py
+
+
+* multiple elements passed or failed -
+
+pytest -vs test_cart.py
+
+
+*******
+pytest -v -s test_cart.py
+
+* Run With browser
+pytest -v -s  --browser chrome
+
