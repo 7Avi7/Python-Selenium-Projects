@@ -1,0 +1,14 @@
+[
+  "LearningPyTest/LearnPyTest/test_additems.py::testCalculation",
+  "LearningPyTest/LearnPyTest/test_additems.py::testLogin",
+  "LearningPyTest/LearnPyTest/test_additems.py::testLogoff",
+  "LearningPyTest/LearnPyTest/test_checkout.py::testCalculation",
+  "LearningPyTest/LearnPyTest/test_checkout.py::testLogin",
+  "LearningPyTest/LearnPyTest/test_checkout.py::testLogoff",
+  "LearningPyTest/LearnPyTest/test_login.py::testCalculation",
+  "LearningPyTest/LearnPyTest/test_login.py::testLogin",
+  "LearningPyTest/LearnPyTest/test_login.py::testLogoff",
+  "LearningPyTest/LearnPyTest/test_logof.py::testCalculation",
+  "LearningPyTest/LearnPyTest/test_logof.py::testLogin",
+  "LearningPyTest/LearnPyTest/test_logof.py::testLogoff"
+]
